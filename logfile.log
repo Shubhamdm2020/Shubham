@@ -1,0 +1,31 @@
+2021-06-23 13:59:51,000 INFO  [Log] Application open 
+2021-06-23 14:00:01,169 INFO  [Log] Login Completed 
+2021-06-23 14:00:04,174 INFO  [Log] Add New Employee 
+2021-06-23 14:00:07,184 INFO  [Log] Delete An Employee 
+2021-06-23 14:00:12,736 INFO  [Log] Logout Completed 
+2021-06-23 14:00:18,380 INFO  [Log] Application Close 
+2021-06-23 14:01:53,932 INFO  [Log] Application open 
+2021-06-23 14:02:02,282 INFO  [Log] Login Completed 
+2021-06-23 14:02:22,588 INFO  [Log] Application open 
+2021-06-23 14:02:30,838 INFO  [Log] Login Completed 
+2021-06-23 14:02:33,838 INFO  [Log] Add New Employee 
+2021-06-23 14:02:36,838 INFO  [Log] Delete An Employee 
+2021-06-23 14:02:41,996 INFO  [Log] Logout Completed 
+2021-06-23 14:02:46,984 INFO  [Log] Application Close 
+2021-06-23 21:15:50,824 INFO  [Log] Application open 
+2021-06-23 21:15:58,798 INFO  [Log] Login Completed 
+2021-06-23 21:16:55,433 INFO  [Log] Application open 
+2021-06-23 21:17:04,930 INFO  [Log] Login Completed 
+2021-06-23 21:17:07,944 INFO  [Log] Add New Employee 
+2021-06-23 21:17:10,946 INFO  [Log] Delete An Employee 
+2021-06-23 21:17:16,811 INFO  [Log] Logout Completed 
+2021-06-23 21:17:21,479 INFO  [Log] Application Close 
+2021-06-23 21:18:00,735 INFO  [Log] Application open 
+2021-06-23 21:18:10,257 INFO  [Log] Login Completed 
+2021-06-23 21:18:15,857 INFO  [Log] Logout Completed 
+2021-06-23 21:18:20,973 INFO  [Log] Application Close 
+2021-06-23 21:18:40,402 INFO  [Log] Application open 
+2021-06-23 21:18:51,142 INFO  [Log] Login Completed 
+2021-06-23 21:18:54,149 INFO  [Log] Add New Employee 
+2021-06-23 21:18:57,160 INFO  [Log] Delete An Employee 
+2021-06-23 21:19:02,184 INFO  [Log] Logout Completed 
